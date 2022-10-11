@@ -1,0 +1,15 @@
+.width-50{
+    width: 50px;
+}
+
+.width-300{
+    width: 300px;
+}
+
+.width-150{
+    width: 150px;
+}
+
+td{
+    vertical-align: middle !important;
+}
